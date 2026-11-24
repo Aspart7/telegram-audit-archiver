@@ -1,0 +1,22 @@
+# Secrets & local configuration
+.env
+.env.*
+!.env.example
+config.json
+*.session
+*.session-journal
+session_b64.txt
+
+# Runtime artifacts & databases
+data/
+media_cache/
+*.db
+*.sqlite
+*.log
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/

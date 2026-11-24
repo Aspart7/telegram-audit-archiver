@@ -1,0 +1,8 @@
+{
+  "bot_token": "REPLACE_WITH_TELEGRAM_BOT_TOKEN",
+  "notify_chat_ids": [],
+  "cache_ttl_hours": 48,
+  "userbot_enabled": false,
+  "api_id": null,
+  "api_hash": ""
+}
